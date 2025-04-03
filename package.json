@@ -1,0 +1,10 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@types/express": "^5.0.1",
+		"dotenv": "^16.4.7",
+		"express": "^5.1.0",
+		"nanoid": "^5.1.5",
+		"pg": "^8.14.1"
+	}
+}
