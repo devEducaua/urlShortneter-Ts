@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "start": "bun run src/main.ts",
+    },
 	"type": "module",
 	"dependencies": {
 		"@types/express": "^5.0.1",
