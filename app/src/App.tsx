@@ -20,7 +20,7 @@ function App() {
     }
 
     function post() {
-        fetch("http://localhost:3333", {
+        fetch("urlshortneter-ts-production.up.railway.app", {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'
