@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "bun run src/main.ts",
+        "start": "bun run src/main.ts"
     },
 	"type": "module",
 	"dependencies": {
